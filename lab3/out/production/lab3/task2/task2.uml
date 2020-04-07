@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="69.0" y="0.0">task2.ProfilePrototype</node>
+    <node x="0.0" y="151.0">task2.ProfileTypeManager</node>
+    <node x="235.0" y="151.0">task2.Main</node>
+    <node x="162.0" y="78.0">task2.PremiumProfile</node>
+    <node x="0.0" y="78.0">task2.TrialProfile</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="task2.TrialProfile" target="task2.ProfilePrototype">
+      <point x="0.0" y="-14.0" />
+      <point x="71.0" y="53.0" />
+      <point x="112.5" y="53.0" />
+      <point x="-43.5" y="14.0" />
+    </edge>
+    <edge source="task2.PremiumProfile" target="task2.ProfilePrototype">
+      <point x="0.0" y="-14.0" />
+      <point x="241.0" y="53.0" />
+      <point x="199.5" y="53.0" />
+      <point x="43.5" y="14.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="0.0" y="0.0" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

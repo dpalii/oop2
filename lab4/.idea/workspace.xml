@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34f6b3d8-3ca5-4a74-8a76-0f73db300bc0" name="Default Changelist" comment="lab 3">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/src/task1/ConversationStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/src/task1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/src/task1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/src/task1/MarkStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/src/task1/OffsetStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/src/task1/PointsList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/src/task1/StudentPoints.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/src/task1/task1.uml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/src/task2/BaseRecipe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/src/task2/Kitchen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/src/task2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/src/task2/MeatSaladRecipe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/src/task2/SoupRecipe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/src/task2/StewRecipe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/src/task2/task2.uml" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/task2/Kitchen.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" selection-start-line="2" selection-end-line="10" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/task1/MarkStrategy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" selection-start-line="4" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/task2/SoupRecipe.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" selection-start-line="2" selection-end-line="13" />
+              <folding>
+                <element signature="e#107#108#0" expanded="true" />
+                <element signature="e#178#179#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/task2/StewRecipe.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" selection-start-line="2" selection-end-line="13" />
+              <folding>
+                <element signature="e#107#108#0" expanded="true" />
+                <element signature="e#175#176#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/task2/BaseRecipe.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" selection-start-line="2" selection-end-line="8" selection-end-column="1" />
+              <folding>
+                <element signature="e#90#91#0" expanded="true" />
+                <element signature="e#162#163#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/task1/OffsetStrategy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="18" column="1" selection-start-line="4" selection-end-line="18" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/task1/PointsList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" selection-start-line="4" selection-end-line="15" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/task2/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" selection-start-line="2" selection-end-line="16" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/task2/MeatSaladRecipe.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" selection-start-line="2" selection-end-line="14" />
+              <folding>
+                <element signature="e#113#114#0" expanded="true" />
+                <element signature="e#161#162#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/task1/StudentPoints.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" selection-start-line="2" selection-end-line="9" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/task1/StudentMarks.java" />
+        <option value="$PROJECT_DIR$/src/task1/StudentPoints.java" />
+        <option value="$PROJECT_DIR$/src/task1/OffsetStrategy.java" />
+        <option value="$PROJECT_DIR$/src/task1/PointsList.java" />
+        <option value="$PROJECT_DIR$/src/task1/MarkStrategy.java" />
+        <option value="$PROJECT_DIR$/src/task2/Main.java" />
+        <option value="$PROJECT_DIR$/src/task2/Kitchen.java" />
+        <option value="$PROJECT_DIR$/src/task1/Main.java" />
+        <option value="$PROJECT_DIR$/src/task2/BaseRecipe.java" />
+        <option value="$PROJECT_DIR$/src/task2/MeatSaladRecipe.java" />
+        <option value="$PROJECT_DIR$/src/task2/SoupRecipe.java" />
+        <option value="$PROJECT_DIR$/src/task2/StewRecipe.java" />
+        <option value="$PROJECT_DIR$/src/task1/ConvertationStrategy.java" />
+        <option value="$PROJECT_DIR$/src/task1/ConversationStrategy.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
+        <option value="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lab4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="task1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="task2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/task2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.task2">
+    <configuration name="task1" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="task1.Main" />
+      <module name="lab3" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="task2.Main" />
+      <module name="lab3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.task2" />
+      <item itemvalue="Application.task1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.task1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34f6b3d8-3ca5-4a74-8a76-0f73db300bc0" name="Default Changelist" comment="" />
+      <created>1586180403501</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586180403501</updated>
+      <workItem from="1586180415124" duration="13057000" />
+      <workItem from="1586195087233" duration="198000" />
+      <workItem from="1586195305491" duration="1422000" />
+      <workItem from="1586251423595" duration="151000" />
+    </task>
+    <task id="LOCAL-00001" summary="lab 3">
+      <created>1586194367361</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586194367361</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14828000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17963752" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32998884" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24526198" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32998884" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32998884" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32998884" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32998884" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lab 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab 3" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/task2/task2.java" />
+    <entry file="file://$PROJECT_DIR$/src/task2/Maint.java" />
+    <entry file="file://$PROJECT_DIR$/src/task1/ConvertationStrategy.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/modules.uml" />
+    <entry file="file://$PROJECT_DIR$/src/task1/ConversationStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/task1/task1.uml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="76" lean-forward="true" selection-start-line="14" selection-start-column="76" selection-end-line="14" selection-end-column="76" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="324.5" y="166.0">task1.MarkStrategy</node>
+            <node x="48.15306122448982" y="88.0">task1.ConversationStrategy</node>
+            <node x="195.51020408163265" y="0.0">task1.StudentPoints</node>
+            <node x="0.0" y="166.0">task1.PointsList</node>
+            <node x="266.7780612244898" y="254.0">task1.Main</node>
+            <node x="146.5" y="166.0">task1.OffsetStrategy</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="task1.Main" target="task1.PointsList">
+              <point x="-32.5" y="-14.0" />
+              <point x="273.2780612244898" y="234.0" />
+              <point x="31.5" y="234.0" />
+              <point x="-31.5" y="14.0" />
+            </edge>
+            <edge source="task1.PointsList" target="task1.ConversationStrategy">
+              <point x="47.25" y="-14.0" />
+              <point x="110.25" y="146.0" />
+              <point x="125.40306122448982" y="146.0" />
+              <point x="-25.75" y="14.0" />
+            </edge>
+            <edge source="task1.MarkStrategy" target="task1.ConversationStrategy">
+              <point x="-35.5" y="-14.0" />
+              <point x="360.0" y="136.0" />
+              <point x="228.40306122448982" y="136.0" />
+              <point x="77.25" y="14.0" />
+            </edge>
+            <edge source="task1.OffsetStrategy" target="task1.StudentPoints">
+              <point x="39.5" y="-14.0" />
+              <point x="265.0" y="146.0" />
+              <point x="269.375" y="146.0" />
+              <point x="269.375" y="68.0" />
+              <point x="270.51020408163265" y="68.0" />
+              <point x="2.8421709430404007E-14" y="14.0" />
+            </edge>
+            <edge source="task1.Main" target="task1.MarkStrategy">
+              <point x="6.5" y="-14.0" />
+              <point x="312.2780612244898" y="214.0" />
+              <point x="395.5" y="214.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+            <edge source="task1.Main" target="task1.StudentPoints">
+              <point x="19.5" y="-14.0" />
+              <point x="325.2780612244898" y="224.0" />
+              <point x="477.0" y="224.0" />
+              <point x="477.0" y="58.0" />
+              <point x="313.36734693877554" y="58.0" />
+              <point x="42.85714285714286" y="14.0" />
+            </edge>
+            <edge source="task1.PointsList" target="task1.StudentPoints">
+              <point x="-15.75" y="-14.0" />
+              <point x="47.25" y="146.0" />
+              <point x="29.03826530612247" y="146.0" />
+              <point x="29.03826530612247" y="58.0" />
+              <point x="227.6530612244898" y="58.0" />
+              <point x="-42.85714285714286" y="14.0" />
+            </edge>
+            <edge source="task1.OffsetStrategy" target="task1.ConversationStrategy">
+              <point x="-39.5" y="-14.0" />
+              <point x="186.0" y="146.0" />
+              <point x="176.90306122448982" y="146.0" />
+              <point x="25.75" y="14.0" />
+            </edge>
+            <edge source="task1.Main" target="task1.OffsetStrategy">
+              <point x="-6.5" y="-14.0" />
+              <point x="299.2780612244898" y="214.0" />
+              <point x="225.5" y="214.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+            <edge source="task1.ConversationStrategy" target="task1.StudentPoints">
+              <point x="0.0" y="-14.0" />
+              <point x="151.15306122448982" y="68.0" />
+              <point x="249.08163265306123" y="68.0" />
+              <point x="-21.428571428571416" y="14.0" />
+            </edge>
+            <edge source="task1.MarkStrategy" target="task1.StudentPoints">
+              <point x="35.499999999999986" y="-14.0" />
+              <point x="431.0" y="68.0" />
+              <point x="291.9387755102041" y="68.0" />
+              <point x="21.428571428571473" y="14.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-531.0" y="-11.0" />
+          <SelectedNodes>
+            <node>task1.Main</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/task2/task2.uml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="186.0" y="78.0">task2.Kitchen</node>
+            <node x="308.0" y="78.0">task2.StewRecipe</node>
+            <node x="223.5" y="156.0">task2.Main</node>
+            <node x="234.08333333333331" y="0.0">task2.BaseRecipe</node>
+            <node x="0.0" y="78.0">task2.MeatSaladRecipe</node>
+            <node x="454.0" y="78.0">task2.SoupRecipe</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="task2.SoupRecipe" target="task2.BaseRecipe">
+              <point x="0.0" y="-14.0" />
+              <point x="517.0" y="48.0" />
+              <point x="344.3333333333333" y="48.0" />
+              <point x="47.25" y="14.0" />
+            </edge>
+            <edge source="task2.StewRecipe" target="task2.BaseRecipe">
+              <point x="0.0" y="-14.0" />
+              <point x="371.0" y="58.0" />
+              <point x="312.8333333333333" y="58.0" />
+              <point x="15.75" y="14.0" />
+            </edge>
+            <edge source="task2.Kitchen" target="task2.BaseRecipe">
+              <point x="0.0" y="-14.0" />
+              <point x="237.0" y="58.0" />
+              <point x="281.3333333333333" y="58.0" />
+              <point x="-15.75" y="14.0" />
+            </edge>
+            <edge source="task2.Main" target="task2.MeatSaladRecipe">
+              <point x="-31.19999999999999" y="-14.0" />
+              <point x="231.3" y="136.0" />
+              <point x="83.0" y="136.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+            <edge source="task2.Main" target="task2.SoupRecipe">
+              <point x="31.19999999999999" y="-14.0" />
+              <point x="293.7" y="136.0" />
+              <point x="517.0" y="136.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+            <edge source="task2.MeatSaladRecipe" target="task2.BaseRecipe">
+              <point x="0.0" y="-14.0" />
+              <point x="83.0" y="48.0" />
+              <point x="249.83333333333331" y="48.0" />
+              <point x="-47.25" y="14.0" />
+            </edge>
+            <edge source="task2.Main" target="task2.Kitchen">
+              <point x="0.0" y="-14.0" />
+              <point x="25.5" y="14.0" />
+            </edge>
+            <edge source="task2.Main" target="task2.StewRecipe">
+              <point x="15.599999999999994" y="-14.0" />
+              <point x="278.09999999999997" y="126.0" />
+              <point x="371.0" y="126.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-531.0" y="-36.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/task1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="31" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/task2/Kitchen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" selection-start-line="2" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/task1/MarkStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" selection-start-line="4" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/task2/SoupRecipe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" selection-start-line="2" selection-end-line="13" />
+          <folding>
+            <element signature="e#107#108#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/task2/BaseRecipe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" selection-start-line="2" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <element signature="e#90#91#0" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/task1/OffsetStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="1" selection-start-line="4" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/task1/PointsList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" selection-start-line="4" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/task2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" selection-start-line="2" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/task2/MeatSaladRecipe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" selection-start-line="2" selection-end-line="14" />
+          <folding>
+            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#161#162#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/task1/StudentPoints.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" selection-start-line="2" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/task2/StewRecipe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" selection-start-line="2" selection-end-line="13" />
+          <folding>
+            <element signature="e#107#108#0" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="0.0" y="151.0">task2.Kitchen</node>
+    <node x="146.0" y="78.0">task2.StewRecipe</node>
+    <node x="147.0" y="151.0">task2.Main</node>
+    <node x="146.0" y="0.0">task2.BaseRecipe</node>
+    <node x="292.0" y="78.0">task2.MeatSaladRecipe</node>
+    <node x="0.0" y="78.0">task2.SoupRecipe</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="task2.SoupRecipe" target="task2.BaseRecipe">
+      <point x="0.0" y="-14.0" />
+      <point x="63.0" y="53.0" />
+      <point x="167.0" y="53.0" />
+      <point x="-42.0" y="14.0" />
+    </edge>
+    <edge source="task2.StewRecipe" target="task2.BaseRecipe">
+      <point x="0.0" y="-14.0" />
+      <point x="0.0" y="14.0" />
+    </edge>
+    <edge source="task2.MeatSaladRecipe" target="task2.BaseRecipe">
+      <point x="0.0" y="-14.0" />
+      <point x="375.0" y="53.0" />
+      <point x="251.0" y="53.0" />
+      <point x="42.0" y="14.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="0.0" y="0.0" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

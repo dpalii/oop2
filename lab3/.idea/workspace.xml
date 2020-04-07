@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dde3b237-d767-40d0-90d2-64f1101eea93" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/task1/BachelorReminder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task1/DefaultReminder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task1/MasterReminder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task1/Reminder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task1/ReminderFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task2/PremiumProfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task2/ProfilePrototype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task2/ProfileTypeManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task2/TrialProfile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task1/ConversationStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task1/MarkStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task1/OffsetStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task1/PointsList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task1/StudentPoints.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task1/task1.uml" beforeDir="false" afterPath="$PROJECT_DIR$/src/task1/task1.uml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task2/BaseRecipe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task2/Kitchen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task2/MeatSaladRecipe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task2/SoupRecipe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task2/StewRecipe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task2/task2.uml" beforeDir="false" afterPath="$PROJECT_DIR$/src/task2/task2.uml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/task2/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" selection-start-line="2" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/task2/PremiumProfile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" selection-start-line="2" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/task2/TrialProfile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" selection-start-line="2" selection-end-line="20" />
+              <folding>
+                <element signature="e#138#139#0" expanded="true" />
+                <element signature="e#174#175#0" expanded="true" />
+                <element signature="e#224#225#0" expanded="true" />
+                <element signature="e#266#267#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/task2/ProfilePrototype.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" selection-start-line="2" selection-end-line="33" selection-end-column="1" />
+              <folding>
+                <element signature="e#587#588#0" expanded="true" />
+                <element signature="e#640#641#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/task2/ProfileTypeManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" selection-start-line="4" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/task1/DefaultReminder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" selection-start-line="2" selection-end-line="9" />
+              <folding>
+                <element signature="e#116#117#0" expanded="true" />
+                <element signature="e#152#153#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/task1/MasterReminder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" selection-start-line="2" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/task1/ReminderFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" selection-start-line="2" selection-end-line="18" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/task1/Reminder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" selection-start-line="2" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/task1/BachelorReminder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="11" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/task1/BachelorReminder.java" />
+        <option value="$PROJECT_DIR$/src/task1/MasterReminder.java" />
+        <option value="$PROJECT_DIR$/src/task1/DefaultReminder.java" />
+        <option value="$PROJECT_DIR$/src/task1/ReminderFactory.java" />
+        <option value="$PROJECT_DIR$/src/task1/Reminder.java" />
+        <option value="$PROJECT_DIR$/src/task1/Main.java" />
+        <option value="$PROJECT_DIR$/src/task2/Profile.java" />
+        <option value="$PROJECT_DIR$/src/task2/BasicProfile.java" />
+        <option value="$PROJECT_DIR$/src/task2/ProfilePrototype.java" />
+        <option value="$PROJECT_DIR$/src/task2/PremiumProfile.java" />
+        <option value="$PROJECT_DIR$/src/task2/TrialProfile.java" />
+        <option value="$PROJECT_DIR$/src/task2/ProfileTypeManager.java" />
+        <option value="$PROJECT_DIR$/src/task2/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
+        <option value="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lab3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="task1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="task2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/task2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.task1">
+    <configuration name="task1" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="task1.Main" />
+      <module name="lab3" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="task2.Main" />
+      <module name="lab3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.task2" />
+      <item itemvalue="Application.task1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.task1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dde3b237-d767-40d0-90d2-64f1101eea93" name="Default Changelist" comment="" />
+      <created>1586251533151</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586251533151</updated>
+      <workItem from="1586251576716" duration="7105000" />
+      <workItem from="1586260764924" duration="5916000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13021000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.8160535" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32998884" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.24414715" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/task1/task1.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="389.0833333333333" y="0.0">task1.Reminder</node>
+            <node x="379.99999999999994" y="78.0">task1.MasterReminder</node>
+            <node x="0.0" y="78.0">task1.DefaultReminder</node>
+            <node x="389.5694444444444" y="234.0">task1.Main</node>
+            <node x="284.9444444444444" y="156.0">task1.ReminderFactory</node>
+            <node x="185.99999999999997" y="78.0">task1.BachelorReminder</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="task1.BachelorReminder" target="task1.Reminder">
+              <point x="0.0" y="-14.0" />
+              <point x="273.0" y="58.0" />
+              <point x="422.0833333333333" y="58.0" />
+              <point x="-22.0" y="14.0" />
+            </edge>
+            <edge source="task1.ReminderFactory" target="task1.BachelorReminder">
+              <point x="-20.75" y="-14.0" />
+              <point x="347.1944444444444" y="126.0" />
+              <point x="273.0" y="126.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+            <edge source="task1.ReminderFactory" target="task1.Reminder">
+              <point x="62.25" y="-14.0" />
+              <point x="430.1944444444444" y="136.0" />
+              <point x="548.5" y="136.0" />
+              <point x="548.5" y="58.0" />
+              <point x="466.08333333333326" y="58.0" />
+              <point x="21.999999999999993" y="14.0" />
+            </edge>
+            <edge source="task1.MasterReminder" target="task1.Reminder">
+              <point x="0.0" y="-14.0" />
+              <point x="458.99999999999994" y="58.0" />
+              <point x="444.0833333333333" y="58.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+            <edge source="task1.ReminderFactory" target="task1.MasterReminder">
+              <point x="20.75" y="-14.0" />
+              <point x="388.6944444444444" y="126.0" />
+              <point x="458.99999999999994" y="126.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+            <edge source="task1.ReminderFactory" target="task1.DefaultReminder">
+              <point x="-62.25" y="-14.0" />
+              <point x="305.6944444444444" y="136.0" />
+              <point x="83.0" y="136.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+            <edge source="task1.Main" target="task1.Reminder">
+              <point x="19.5" y="-14.0" />
+              <point x="448.0694444444444" y="209.0" />
+              <point x="566.7222222222222" y="209.0" />
+              <point x="566.7222222222222" y="48.0" />
+              <point x="488.08333333333326" y="48.0" />
+              <point x="43.99999999999999" y="14.0" />
+            </edge>
+            <edge source="task1.DefaultReminder" target="task1.Reminder">
+              <point x="0.0" y="-14.0" />
+              <point x="83.0" y="48.0" />
+              <point x="400.0833333333333" y="48.0" />
+              <point x="-44.0" y="14.0" />
+            </edge>
+            <edge source="task1.Main" target="task1.ReminderFactory">
+              <point x="-19.5" y="-14.0" />
+              <point x="409.0694444444444" y="209.0" />
+              <point x="367.9444444444444" y="209.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-461.0" y="-80.5" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/task2/task2.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="208.98888888888894" y="0.0">task2.ProfilePrototype</node>
+            <node x="148.95555555555558" y="156.0">task2.ProfileTypeManager</node>
+            <node x="259.58333333333337" y="234.0">task2.Main</node>
+            <node x="0.0" y="78.0">task2.PremiumProfile</node>
+            <node x="178.00000000000006" y="78.0">task2.TrialProfile</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="task2.TrialProfile" target="task2.ProfilePrototype">
+              <point x="0.0" y="-14.0" />
+              <point x="249.00000000000006" y="58.0" />
+              <point x="261.1888888888889" y="58.0" />
+              <point x="-34.80000000000001" y="14.0" />
+            </edge>
+            <edge source="task2.Main" target="task2.ProfileTypeManager">
+              <point x="-19.5" y="-14.0" />
+              <point x="279.08333333333337" y="209.0" />
+              <point x="243.95555555555558" y="209.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+            <edge source="task2.ProfileTypeManager" target="task2.ProfilePrototype">
+              <point x="79.16666666666669" y="-14.0" />
+              <point x="323.12222222222226" y="136.0" />
+              <point x="349.9592592592593" y="136.0" />
+              <point x="349.9592592592593" y="48.0" />
+              <point x="330.78888888888895" y="48.0" />
+              <point x="34.80000000000001" y="14.0" />
+            </edge>
+            <edge source="task2.ProfileTypeManager" target="task2.PremiumProfile">
+              <point x="-79.16666666666671" y="-14.0" />
+              <point x="164.78888888888886" y="136.0" />
+              <point x="39.5" y="136.0" />
+              <point x="-39.5" y="14.0" />
+            </edge>
+            <edge source="task2.Main" target="task2.ProfilePrototype">
+              <point x="19.500000000000004" y="-14.0" />
+              <point x="318.08333333333337" y="209.0" />
+              <point x="360.9592592592593" y="209.0" />
+              <point x="360.9592592592593" y="58.0" />
+              <point x="365.58888888888896" y="58.0" />
+              <point x="69.60000000000002" y="14.0" />
+            </edge>
+            <edge source="task2.ProfileTypeManager" target="task2.TrialProfile">
+              <point x="15.833333333333314" y="-14.0" />
+              <point x="259.7888888888889" y="136.0" />
+              <point x="284.50000000000006" y="136.0" />
+              <point x="35.5" y="14.0" />
+            </edge>
+            <edge source="task2.PremiumProfile" target="task2.ProfilePrototype">
+              <point x="0.0" y="-14.0" />
+              <point x="79.0" y="58.0" />
+              <point x="226.3888888888889" y="58.0" />
+              <point x="-69.6" y="14.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-461.0" y="-80.5" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/task1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" selection-start-line="4" selection-end-line="28" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/task1/BachelorReminder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/task1/DefaultReminder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" selection-start-line="2" selection-end-line="9" />
+          <folding>
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/task1/MasterReminder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" selection-start-line="2" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/task1/Reminder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" selection-start-line="2" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/task1/ReminderFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" selection-start-line="2" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/task2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" selection-start-line="2" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/task2/PremiumProfile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" selection-start-line="2" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/task2/ProfilePrototype.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" selection-start-line="2" selection-end-line="33" selection-end-column="1" />
+          <folding>
+            <element signature="e#587#588#0" expanded="true" />
+            <element signature="e#640#641#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/task2/ProfileTypeManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" selection-start-line="4" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/task2/TrialProfile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" selection-start-line="2" selection-end-line="20" />
+          <folding>
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

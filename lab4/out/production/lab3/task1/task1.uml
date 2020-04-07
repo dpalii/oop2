@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="174.0" y="78.0">task1.MarkStrategy</node>
+    <node x="59.0" y="0.0">task1.ConversationStrategy</node>
+    <node x="0.0" y="151.0">task1.StudentPoints</node>
+    <node x="0.0" y="224.0">task1.PointsList</node>
+    <node x="167.0" y="224.0">task1.Main</node>
+    <node x="0.0" y="78.0">task1.OffsetStrategy</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="task1.MarkStrategy" target="task1.ConversationStrategy">
+      <point x="0.0" y="-14.0" />
+      <point x="243.0" y="53.0" />
+      <point x="210.5" y="53.0" />
+      <point x="50.5" y="14.0" />
+    </edge>
+    <edge source="task1.OffsetStrategy" target="task1.ConversationStrategy">
+      <point x="0.0" y="-14.0" />
+      <point x="77.0" y="53.0" />
+      <point x="109.5" y="53.0" />
+      <point x="-50.5" y="14.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="0.0" y="0.0" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
