@@ -1,32 +1,29 @@
 package task1;
 
-import java.text.DecimalFormat;
 import java.util.ArrayList;
 
 public class Main {
-    private static final double maxMark = 100.0;
+    private static final int N = 10;
     public static void main(String[] args) {
-        var pointsList = new ArrayList<StudentPoints>();
-        for (int i = 0; i < 10; i++) {
-            var name = "student" + i;
-            var mark = Math.random() * maxMark;
-            var student = new StudentPoints(name, mark);
-            pointsList.add(student);
-            System.out.println(student.name + ' ' + new DecimalFormat("##.##").format(student.points));
+        var factory = ReminderFactory.getInstance();
+        var masterReminders = new ArrayList<Reminder>();
+        var bachelorReminders = new ArrayList<Reminder>();
+        for (int i = 0; i < N; i++)
+        {
+            masterReminders.add(factory.createReminder("master"));
+            bachelorReminders.add(factory.createReminder("bachelor"));
         }
-
-        var pointsToOffsetList = new PointsList(new OffsetStrategy(), pointsList);
-        var offsetList = pointsToOffsetList.convertMarksList();
-        System.out.println("Offsets");
-        for (String entry: offsetList) {
-            System.out.println(entry);
+        for (Reminder reminder: masterReminders)
+        {
+            System.out.println(reminder.printReminder());
+            System.out.println("***");
         }
-
-        var pointsToMarksList = new PointsList(new MarkStrategy(), pointsList);
-        var markList = pointsToMarksList.convertMarksList();
-        System.out.println("Marks");
-        for (String entry: markList) {
-            System.out.println(entry);
+        for (Reminder reminder: bachelorReminders)
+        {
+            System.out.println(reminder.printReminder());
+            System.out.println("***");
         }
+        var reminder = factory.createReminder("student");
+        System.out.println(reminder.printReminder());
     }
 }

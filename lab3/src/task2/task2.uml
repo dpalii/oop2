@@ -3,30 +3,25 @@
   <ID>JAVA</ID>
   <OriginalElement />
   <nodes>
-    <node x="0.0" y="151.0">task2.Kitchen</node>
-    <node x="332.0" y="78.0">task2.StewRecipe</node>
-    <node x="147.0" y="151.0">task2.Main</node>
-    <node x="166.0" y="0.0">task2.BaseRecipe</node>
-    <node x="146.0" y="78.0">task2.MeatSaladRecipe</node>
-    <node x="0.0" y="78.0">task2.SoupRecipe</node>
+    <node x="69.0" y="0.0">task2.ProfilePrototype</node>
+    <node x="0.0" y="151.0">task2.ProfileTypeManager</node>
+    <node x="235.0" y="151.0">task2.Main</node>
+    <node x="162.0" y="78.0">task2.PremiumProfile</node>
+    <node x="0.0" y="78.0">task2.TrialProfile</node>
   </nodes>
   <notes />
   <edges>
-    <edge source="task2.SoupRecipe" target="task2.BaseRecipe">
+    <edge source="task2.TrialProfile" target="task2.ProfilePrototype">
       <point x="0.0" y="-14.0" />
-      <point x="63.0" y="53.0" />
-      <point x="187.0" y="53.0" />
-      <point x="-42.0" y="14.0" />
+      <point x="71.0" y="53.0" />
+      <point x="112.5" y="53.0" />
+      <point x="-43.5" y="14.0" />
     </edge>
-    <edge source="task2.StewRecipe" target="task2.BaseRecipe">
+    <edge source="task2.PremiumProfile" target="task2.ProfilePrototype">
       <point x="0.0" y="-14.0" />
-      <point x="395.0" y="53.0" />
-      <point x="271.0" y="53.0" />
-      <point x="42.0" y="14.0" />
-    </edge>
-    <edge source="task2.MeatSaladRecipe" target="task2.BaseRecipe">
-      <point x="0.0" y="-14.0" />
-      <point x="0.0" y="14.0" />
+      <point x="241.0" y="53.0" />
+      <point x="199.5" y="53.0" />
+      <point x="43.5" y="14.0" />
     </edge>
   </edges>
   <settings layout="Hierarchic Group" zoom="1.0" x="0.0" y="0.0" />

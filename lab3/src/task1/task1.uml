@@ -3,37 +3,34 @@
   <ID>JAVA</ID>
   <OriginalElement />
   <nodes>
-    <node x="0.0" y="78.0">task1.MarkStrategy</node>
-    <node x="53.0" y="0.0">task1.ConvertationStrategy</node>
-    <node x="0.0" y="151.0">task1.StudentPoints</node>
-    <node x="0.0" y="224.0">task1.PointsList</node>
-    <node x="171.0" y="224.0">task1.Main</node>
-    <node x="162.0" y="78.0">task1.OffsetStrategy</node>
+    <node x="218.0" y="0.0">task1.Reminder</node>
+    <node x="194.0" y="78.0">task1.MasterReminder</node>
+    <node x="372.0" y="78.0">task1.DefaultReminder</node>
+    <node x="211.0" y="151.0">task1.Main</node>
+    <node x="0.0" y="151.0">task1.ReminderFactory</node>
+    <node x="0.0" y="78.0">task1.BachelorReminder</node>
   </nodes>
   <notes />
   <edges>
-    <edge source="task1.OffsetStrategy" target="task1.ConvertationStrategy">
+    <edge source="task1.BachelorReminder" target="task1.Reminder">
       <point x="0.0" y="-14.0" />
-      <point x="241.0" y="53.0" />
-      <point x="207.5" y="53.0" />
-      <point x="51.5" y="14.0" />
+      <point x="87.0" y="53.0" />
+      <point x="236.33333333333331" y="53.0" />
+      <point x="-36.666666666666686" y="14.0" />
     </edge>
-    <edge source="task1.MarkStrategy" target="task1.ConvertationStrategy">
+    <edge source="task1.MasterReminder" target="task1.Reminder">
       <point x="0.0" y="-14.0" />
-      <point x="71.0" y="53.0" />
-      <point x="104.5" y="53.0" />
-      <point x="-51.5" y="14.0" />
+      <point x="0.0" y="14.0" />
+    </edge>
+    <edge source="task1.DefaultReminder" target="task1.Reminder">
+      <point x="0.0" y="-14.0" />
+      <point x="455.0" y="53.0" />
+      <point x="309.66666666666663" y="53.0" />
+      <point x="36.66666666666663" y="14.0" />
     </edge>
   </edges>
-  <settings layout="Hierarchic Group" zoom="1.0" x="-534.0000000000001" y="165.0" />
-  <SelectedNodes>
-    <node>task1.MarkStrategy</node>
-    <node>task1.ConvertationStrategy</node>
-    <node>task1.Main</node>
-    <node>task1.StudentPoints</node>
-    <node>task1.OffsetStrategy</node>
-    <node>task1.PointsList</node>
-  </SelectedNodes>
+  <settings layout="Hierarchic Group" zoom="1.0" x="0.0" y="0.0" />
+  <SelectedNodes />
   <Categories />
   <SCOPE>All</SCOPE>
   <VISIBILITY>private</VISIBILITY>
